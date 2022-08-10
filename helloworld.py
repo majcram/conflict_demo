@@ -3,9 +3,7 @@ def hello_world(city, state):
 
 
 def main():
-<<<<<<< HEAD
     hello_world('NYC','New York')
-
 
 
 main()
